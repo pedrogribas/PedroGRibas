@@ -28,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
-
 <div align="left">
   <h3>Connect with me:</h3>
   <a href="https://www.linkedin.com/in/PedroGRibas" target="_blank">
@@ -40,14 +38,13 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pedrogribas/pedrogribas/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/output/github-contribution-grid-snake.gif">
+</picture>
 
 <div align="center">
   <a href="https://open.spotify.com/user/astolfosami">
