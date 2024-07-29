@@ -40,11 +40,20 @@
 </div>
 <br clear="both">
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pedrogribas/PedroGRibas/output/github-contribution-grid-snake-dark.svg" />
+<script>
+  function getPreferredTheme() {
+    if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+      return "dark";
+    } else {
+      return "light";
+    }
+  }
 
+  var theme = getPreferredTheme();
+  var snakeImage = document.createElement("img");
+  snakeImage.alt = "snake eating my contributions";
+  snakeImage.src = `https://raw.githubusercontent.com/pedrogribas/PedroGRibas/output/github-contribution-grid-snake-${theme}.svg`;
+  document.body.appendChild(snakeImage);
+</script>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/astolfosami">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=astolfosami" alt="Spotify recently played"  />
-  </a>
-</div>
