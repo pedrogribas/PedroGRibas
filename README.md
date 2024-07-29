@@ -40,11 +40,8 @@
 </div>
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrogribas/PedroGRibas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrogribas/PedroGRibas/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/pedrogribas/PedroGRibas/output/github-contribution-grid-snake.gif">
-</picture>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pedrogribas/PedroGRibas/output/github-contribution-grid-snake-dark.svg" />
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/astolfosami">
